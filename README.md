@@ -1,0 +1,2 @@
+# thecodecrafterthon-day1-correct
+CODECRAFTERS — HACKATHON CHALLENGE      THE MAIN CLI CALCULATOR
